@@ -1,0 +1,14 @@
+{
+  "name": "i18next",
+  "version": "1.0.0",
+  "description": "i18next.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "i18next": "19.3.4",
+    "node-fetch": "^2.6.0"
+  }
+}
